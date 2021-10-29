@@ -13,7 +13,7 @@
   - 这么多经典论文，通过自己精读、作报告或听别人作报告的方式学习完，也是一件很了不起的事情
 
 ## Paper List
-主要来源于[UIUC Compilers Track PhD Qualifying Exam](http://rsim.cs.uiuc.edu/arch/compiler_qual.html)
+主要来源于[UIUC Compilers Track PhD Qualifying Exam](http://rsim.cs.uiuc.edu/arch/compiler_qual.html)和崔老师给的论文阅读列表
 
 ### Compiler Core
 1. D. Padua and M. Wolfe. "Advanced Compiler Optimizations for Supercomputers," Communications of the ACM, Vol. 29, No. 12, pp. 1184-1201, December 1986.
