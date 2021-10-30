@@ -13,13 +13,14 @@
   - 这么多经典论文，通过自己精读、作报告或听别人作报告的方式学习完，也是一件很了不起的事情
 
 ## Paper List
-主要来源于[UIUC Compilers Track PhD Qualifying Exam](http://rsim.cs.uiuc.edu/arch/compiler_qual.html)和崔老师给的论文阅读列表
+主要来源于[UIUC Compilers Track PhD Qualifying Exam](http://rsim.cs.uiuc.edu/arch/compiler_qual.html)和老师给的论文阅读列表
 
 ### Compiler Core
 - [ ] D. Padua and M. Wolfe. "Advanced Compiler Optimizations for Supercomputers," Communications of the ACM, Vol. 29, No. 12, pp. 1184-1201, December 1986.
 - [ ] Rakesh Ghiya, Daniel Lavery, and David Sehr. "On the Importance of Points-to Analysis and Other Memory Disambiguation Methods for C Programs," Proceedings of the ACM SIGPLAN 2001 Conference on Programming Language Design and Implementation (PLDI'01), Snowbird, UT, June 2001.
 3. Michael E. Wolf and Monica S. Lam. "A Data Locality Optimizing Algorithm," ACM SIGPLAN Conference on Programming Languages Design and Implementation, June 1991, pp. 30-44.
 - [ ] R. Cytron, J. Ferrante, B. Rosen, M. Wegman, and K. Zadeck. "Efficiently Computing Static Single Assignment Form and The Control Dependence Graph," ACM Transactions on Porgramming Languages and Systems, 13(4), pp. 451-490, October 1991.
+  - reserved by `Zihao Li`
 - [ ] Joseph A, Fisher and B. Ramakrishna Rau. "Instruction-Level Parallel Processing," Science, New Series, Vol. 253, No. 5025, September 13, 1991, pp. 1233-1241.
 - [ ] Larsen, S., & Amarasinghe, S. (2000). Exploiting superword level parallelism with multimedia instruction sets. Acm Sigplan Notices, 35(5), 145-156
 - [ ] Luk, C. K., Cohn, R., Muth, R., Patil, H., Klauser, A., Lowney, G., ... & Hazelwood, K. (2005). Pin: building customized program analysis tools with dynamic instrumentation. Acm sigplan notices, 40(6), 190-200.
@@ -35,6 +36,7 @@
 - [ ] J. B. Kam and J. D. Ullman. "Global Data Flow Analysis and Iterative Algorithms,"Journal of the ACM, 23(1), pp. 158-171, Jan. 1976.
 - [ ] Barbara G. Ryder and Marvin C. Pauli. "Elimination algorithms for data flow analysis," ACM Computing Surveys, 18 (3), pp. 277-316. September 1986.
 - [ ] J. Knoop, O. Ruthing, and B. Steffen. "Lazy Code Motion," Proceedings of the ACM Symposium on Programming Language Design and Implementation (PLDI'92), 1992.
+  - reserved by `Zihao Li`
 
 ### Static Single Assignment Form and SSA Optimizations
 - [ ] B. Alpern, M.N. Wegman, and F.K. Zadeck. "Detecting Equality of Variables in Programs," Proceedings of the 15th Annual ACM Symposium on Principles of Programming Languages, pp. 1-11, 1988.
@@ -54,6 +56,7 @@
 
 - [ ] Michael Burke, Linda Torczon. "Interprocedural Optimization: Eliminating Unnecessary Recompilation," ACM Transactions on Programming Languages and Systems, 15(3), July 1993.
 - [ ] Reps, T., Horwitz, S., & Sagiv, M. (1995, January). Precise interprocedural dataflow analysis via graph reachability. In Proceedings of the 22nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages (pp. 49-61).
+  - reserved by `Yongheng Huang`
 
 ### Code Generation and Register Allocation
 - [ ] C. Fraser, R. Henry, and T. Proebsting. "BURG: Fast Optimal Instruction Selection and Tree Parsing," ACM SIGPLAN Notices, 27(4), pp. 68-76, April 1992.
@@ -73,6 +76,7 @@
 ----
 ### Programming Languages
 - [ ] Hoare, C. A. R. (1969). An axiomatic basis for computer programming. Communications of the ACM, 12(10), 576-580.
+  - reserved by `Zihao Li`
 - [ ] Milner, R. (1978). A theory of type polymorphism in programming. Journal of computer and system sciences, 17(3), 348-375.
 - [ ] Wegner, P. (1987). Dimensions of object-based language design. ACM Sigplan Notices, 22(12), 168-182.
 - [ ] Agha, G. (1990). Concurrent object-oriented programming. Communications of the ACM, 33(9), 125-141.
