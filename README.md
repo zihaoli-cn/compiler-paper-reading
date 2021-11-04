@@ -33,6 +33,7 @@
 ### Data Flow Analysis and Optimizations
 - [ ] J. B. Kam and J. D. Ullman. "Global Data Flow Analysis and Iterative Algorithms,"Journal of the ACM, 23(1), pp. 158-171, Jan. 1976.
   - This paper covers fundamental material in the area. For additional explanation of this material, refer to the Dragon book: Aho, Lam, Sethi and Ullmann – Chapter 9
+  - will be presented by `Yongheng Huang`
 - [ ] Barbara G. Ryder and Marvin C. Pauli. "Elimination algorithms for data flow analysis," ACM Computing Surveys, 18 (3), pp. 277-316. September 1986.
 - [ ] J. Knoop, O. Ruthing, and B. Steffen. "Lazy Code Motion," Proceedings of the ACM Symposium on Programming Language Design and Implementation (PLDI'92), 1992.
   - For additional explanation of this material, refer to the Dragon book , Section 9.5, or Keith Cooper and Linda Torczon. "Engineering a Compiler", Section 10.3.2, Published by Morgan Kaufman, Second Edition, 2011
@@ -51,7 +52,7 @@
 
 ### Pointer Analysis
 - [ ] B. Steensgaard. "Points-to Analysis in Almost Linear Time," Proceedings of the 23rd Annual ACM Symposium on Principles of Programming Languages (POPL'96), pp. 32-41, January 1996.
-
+  - will be presented by `Yongheng Huang`
 - [ ] Manuel Fahndrich, Jeffrey S. Foster, Zhendong Su, and Alexander Aiken. "Partial Online Cycle Elimination in Inclusion Constraint Graphs," Proceedings of the ACM SIGPLAN'98 Conference on Programming Language Design and Implementation, pp. 85-96, June, 1998.
 - [ ] Hardekopf, B., & Lin, C. (2007, June). The ant and the grasshopper: fast and accurate pointer analysis for millions of lines of code. In Proceedings of the 28th ACM SIGPLAN Conference on Programming Language Design and Implementation (pp. 290-299).
 
