@@ -99,7 +99,7 @@
 - [ ] Rifat Shahriyar, Stephen M. Blackburn, and Kathryn S. McKinley. Fast Conservative Garbage Collection. OOPSLA 2014.
 
 ### Dynamic Language's Compiler
-- [] C. Chambers, D. Ungar, and E. Lee. An Efficient Implementation of SELF, a Dynamically-Typed Object-Oriented Language Based on Prototypes, OOPSLA 1989.
+- [ ] C. Chambers, D. Ungar, and E. Lee. An Efficient Implementation of SELF, a Dynamically-Typed Object-Oriented Language Based on Prototypes, OOPSLA 1989.
 
 ### Synthesis-Aided Compilers
 - [ ] Phitchaya Mangpo Phothilimthana, Tikhon Jelvis, Rohin Shah, Nishant Totla, Sarah Chasins, and Rastislav Bodik. Chlorophyll: Synthesis-Aided Compiler for Low-Power Spatial Architectures. PLDI 2014.
