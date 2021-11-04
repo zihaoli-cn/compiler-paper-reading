@@ -83,13 +83,29 @@
 - [ ] Luk, C. K., Cohn, R., Muth, R., Patil, H., Klauser, A., Lowney, G., ... & Hazelwood, K. (2005). Pin: building customized program analysis tools with dynamic instrumentation. Acm sigplan notices, 40(6), 190-200.
 - [ ] Gal, A., Eich, B., Shaver, M., Anderson, D., Mandelin, D., Haghighat, M. R., ... & Ruderman, J. (2009). Trace- based just-in-time type specialization for dynamic languages. ACM Sigplan Notices, 44(6), 465-478.
 
- ### Correctness
+### Correctness
 - [ ] Thomas Ball, Rupak Majumdar, Todd Millstein, and Sriram K. Rajamani. "Automatic Predicate Abstraction of C Programs", InProceedings of the ACM SIGPLAN 2001 Conference on Programming Language Design and Implementation (PLDI).  June 2001.
-
 - [ ] Yichen Xie and Alex Aiken. "Saturn: A Scalable Framework for Error Detection Using Boolean Satisfiability",ACM Transactions on Programming Languages and Systems, 29 (3), May 2007.
-
 - [ ] Rastislav Bodik, Rajiv Gupta and Vivek Sarkar. "ABCD: Eliminating Array Bounds Checks on Demand", InProceedings of the ACM SIGPLAN 2001 Conference on Programming Language Design and Implementation (PLDI), June 2000.
 
+### Safe Parallelism
+- [ ] Robert L. Bocchino, Vikram S. Adve, Danny Dig, Sarita V. Adve, Stephen Heumann, Rakesh Komuravelli, Jeffrey Overbey, Patrick Simmons, Hyojin Sung, and Mohsen Vakilian. A Type and Effect System for Deterministic Parallel Java. OOPSLA 2009.
+
+### Superoptimizaion
+- [ ] Alexia Massalin. Superoptimizer: A Look at the Smallest Program. ASPLOS 1987.
+
+### Garbage Collection
+- [ ] David F. Bacon, Perry Cheng, and V. T. Rajan. A Unified Theory of Garbage Collection. OOPSLA 2004.
+- [ ] Rifat Shahriyar, Stephen M. Blackburn, and Kathryn S. McKinley. Fast Conservative Garbage Collection. OOPSLA 2014.
+
+### Dynamic Language's Compiler
+- [] C. Chambers, D. Ungar, and E. Lee. An Efficient Implementation of SELF, a Dynamically-Typed Object-Oriented Language Based on Prototypes, OOPSLA 1989.
+
+### Synthesis-Aided Compilers
+- [ ] Phitchaya Mangpo Phothilimthana, Tikhon Jelvis, Rohin Shah, Nishant Totla, Sarah Chasins, and Rastislav Bodik. Chlorophyll: Synthesis-Aided Compiler for Low-Power Spatial Architectures. PLDI 2014.
+
+### Interactive Verification
+- [ ] Xavier Leroy. Formal Verification of a Realistic Compiler CACM in 2009.
 ----
 ### Programming Languages
 - [ ] Hoare, C. A. R. (1969). An axiomatic basis for computer programming. Communications of the ACM, 12(10), 576-580.
