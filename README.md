@@ -18,11 +18,13 @@
   - 这么多经典论文，通过自己精读、作报告或听别人作报告的方式学习完，也是一件很了不起的事情
 
 ## Paper List
+研讨班中的论文范围：[selected paper in this seminar](https://github.com/zihaoli-cn/compiler-paper-reading/blob/main/selected_paper.md)
+
+
 阅读列表的主要来源：
 - 主要来自于UIUC Compilers Track PhD Qualifying Exam [Old Version](http://rsim.cs.uiuc.edu/arch/compiler_qual.html), [New Version](https://wiki.illinois.edu/wiki/display/architecture/Compilers+Track)
 - 选择了[Cornell CS 6120: Advanced Compilers](https://www.cs.cornell.edu/courses/cs6120/2020fa)中推荐阅读文章的几篇高引论文
-- [selected paper in this seminar](https://github.com/zihaoli-cn/compiler-paper-reading/selected_paper.md)
 
 ## Schedule
 - 已选择的paper见Issues，讲完一个会被标注为closed，在selected_paper中会有标注
-- [每周要将的论文安排](https://github.com/zihaoli-cn/compiler-paper-reading/schedlue.md)
+- 每周要讲的论文及时间安排[schedule.md](https://github.com/zihaoli-cn/compiler-paper-reading/blob/main/schedlue.md)
