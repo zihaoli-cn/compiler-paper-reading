@@ -18,7 +18,7 @@
   - 这么多经典论文，通过自己精读、作报告或听别人作报告的方式学习完，也是一件很了不起的事情
 
 ## Paper List
-研讨班中的论文范围：[selected paper in this seminar](https://github.com/zihaoli-cn/compiler-paper-reading/blob/main/selected_paper.md)
+研讨班中的论文范围：[selected_paper.md](https://github.com/zihaoli-cn/compiler-paper-reading/blob/main/selected_paper.md)
 
 
 阅读列表的主要来源：
