@@ -93,7 +93,8 @@
 ----
 ### Programming Languages
 - [ ] Hoare, C. A. R. (1969). An axiomatic basis for computer programming. Communications of the ACM, 12(10), 576-580.
-  - will be presented by `Zihao Li`
+  - presented by `Zihao Li`, 2021.11.07, 19:00 ~ 20:00
+  - [PPT Directory Link](https://github.com/zihaoli-cn/compiler-paper-reading/tree/main/material/ProgrammingLanguages/HoareLogic)
 - [ ] Milner, R. (1978). A theory of type polymorphism in programming. Journal of computer and system sciences, 17(3), 348-375.
 - [ ] Wegner, P. (1987). Dimensions of object-based language design. ACM Sigplan Notices, 22(12), 168-182.
 - [ ] Agha, G. (1990). Concurrent object-oriented programming. Communications of the ACM, 33(9), 125-141.
