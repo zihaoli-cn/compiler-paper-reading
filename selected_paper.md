@@ -90,9 +90,13 @@
 
 ### Interactive Verification
 - [ ] Xavier Leroy. Formal Verification of a Realistic Compiler CACM in 2009.
+
+### Domain Specific Language
+- [ ] PLDI '13. Halide: a language and compiler for optimizing parallelism, locality, and recomputation in image processing pipelines.
+  - A language for image processing and computational photography.
 ----
 ### Programming Languages
-- [ ] Hoare, C. A. R. (1969). An axiomatic basis for computer programming. Communications of the ACM, 12(10), 576-580.
+- [x] Hoare, C. A. R. (1969). An axiomatic basis for computer programming. Communications of the ACM, 12(10), 576-580.
   - presented by `Zihao Li`, 2021.11.07, 19:00 ~ 20:00
   - [PPT Directory Link](https://github.com/zihaoli-cn/compiler-paper-reading/tree/main/material/ProgrammingLanguages/HoareLogic)
 - [ ] Milner, R. (1978). A theory of type polymorphism in programming. Journal of computer and system sciences, 17(3), 348-375.
