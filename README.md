@@ -29,3 +29,6 @@
 ## Schedule
 - 已选择的paper见Issues，讲完一个会被标注为closed，在selected_paper中会有标注
 - 每周要讲的论文及时间安排[schedule.md](https://github.com/zihaoli-cn/compiler-paper-reading/blob/main/schedule.md)
+
+## Advice
+- 带着有趣的问题来讨论，不要只是来听别人给你讲嚼过的的paper
