@@ -6,3 +6,4 @@
 | 4 | Precise Interprocedural Dataflow Analysis via Graph Reachability | Interprocedural Analysis | Yongheng Huang | 2021.11.27 ~ 2021.11.28 | `TODO` | |
 | 5 | A comparison of empirical and model-driven optimization | Program Synthesis | Kaiyan Chang | 2021.12.04 ~ 2021.12.05 | `TODO` | |
 | 6 | Invited Talk: GEMM | High Performance Computation | Han Bao | 2021.12.11 ~ 2021.12.12 | `TODO` | |
+| 7 | Detecting Equality of Variables in Programs|  Optimization, History: the orgin of SSA | Zihao Li | 2021.12.19 | `TODO` | at least know what is **SSA**|
