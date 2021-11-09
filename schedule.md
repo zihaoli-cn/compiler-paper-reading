@@ -1,6 +1,6 @@
 | Index | Title |  Keywords | Lecturer | Time | Links| Presiquite |
 | ----- | ----- | --------- | ---------| ---- | ---- | ---------- |
-| 1 | An axiomatic basis for computer programming | Correctness, Hoare Logical | Zihao Li | 2021.11.7 19:00 ~ 21:00 | [PPT](https://github.com/zihaoli-cn/compiler-paper-reading/tree/main/material/ProgrammingLanguages/HoareLogic)| have learned **Proprositional Logic** |
+| 1 | An axiomatic basis for computer programming | Correctness, Hoare Logic, Verfication | Zihao Li | 2021.11.7 19:00 ~ 21:00 | [PPT](https://github.com/zihaoli-cn/compiler-paper-reading/tree/main/material/ProgrammingLanguages/HoareLogic)| have learned **Proprositional Logic** |
 | 2 | Exploiting superword level parallelism with multimedia instruction sets | Vectorization, SIMD | Zhongcheng Zhang | 2021.11.14 19:00 ~ 21:00 | `TODO` | paper  section 1 is strongly suggested to read|
 | 3 | Advanced Compiler Optimizations For Supercomputers | Optimization | Quanxi Li | 2021.11.20 ~ 2021.11.21 | `TODO` | |
 | 4 | Precise Interprocedural Dataflow Analysis via Graph Reachability | Interprocedural Analysis | Yongheng Huang | 2021.11.27 ~ 2021.11.28 | `TODO` | |
