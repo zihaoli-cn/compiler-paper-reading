@@ -57,7 +57,8 @@
 
 ### Vectorization
 - [ ] Larsen, S., & Amarasinghe, S. (2000). Exploiting superword level parallelism with multimedia instruction sets. Acm Sigplan Notices, 35(5), 145-156
-  - will be presented by `Zhongcheng Zhang`
+  - presented by `Zhongcheng Zhang`, 2021.11.14, 19:00-20:00
+  - - [PPT Directory Link](https://github.com/zihaoli-cn/compiler-paper-reading/tree/main/material/Compiler%20Specialization/Vectorization)
 
 ### Program Synthesis
 - [ ] Frigo, M. (1999, May). A fast Fourier transform compiler. In Proceedings of the ACM SIGPLAN 1999 conference on Programming language design and implementation (pp. 169-180).
