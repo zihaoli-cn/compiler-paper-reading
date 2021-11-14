@@ -33,6 +33,7 @@
 ### Dependence Analysis
 - [ ] M.E. Wolfe and M. Lam. "A Loop Transformation Theory and an Algorithm to Maximize Parallelism, IEEE Transactions on Parallel and Distributed Systems, 2(4): 452-471, October 1991.
 - [ ] R. Allen and K.W. Kennedy. "Automatic Translation of FORTRAN Programs to Vector Form," ACM Transactions on Programming Languages and Systems (TOPLAS), 9(4), October 1987, pp. 491-542.
+  - will be presented by `Zhongcheng Zhang` 
 
 ### Pointer Analysis
 - [ ] B. Steensgaard. "Points-to Analysis in Almost Linear Time," Proceedings of the 23rd Annual ACM Symposium on Principles of Programming Languages (POPL'96), pp. 32-41, January 1996.
@@ -56,7 +57,7 @@
 - [ ] W.W. Hwu, et.al. "The Superblock: An Effective Technique for VLIW and Superscalar Compilation," Instruction-Level Parallelism, B.R. Rau and J.A. Fisher (editors), Kluwer Academic Publishers, ISBN 0-7923-9367-8, 1993, pp. 229-248.
 
 ### Vectorization
-- [ ] Larsen, S., & Amarasinghe, S. (2000). Exploiting superword level parallelism with multimedia instruction sets. Acm Sigplan Notices, 35(5), 145-156
+- [x] Larsen, S., & Amarasinghe, S. (2000). Exploiting superword level parallelism with multimedia instruction sets. Acm Sigplan Notices, 35(5), 145-156
   - presented by `Zhongcheng Zhang`, 2021.11.14, 19:00-20:00
   - [PPT Directory Link](https://github.com/zihaoli-cn/compiler-paper-reading/tree/main/material/Compiler%20Specialization/Vectorization)
 
