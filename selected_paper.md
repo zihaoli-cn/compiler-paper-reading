@@ -99,6 +99,10 @@
 ### Domain Specific Language
 - [ ] PLDI '13. Halide: a language and compiler for optimizing parallelism, locality, and recomputation in image processing pipelines.
   - A language for image processing and computational photography.
+
+### Deep Learning Compiler
+- [ ] Chen T, Moreau T, Jiang Z, Zheng L, Yan E, Shen H, Cowan M, Wang L, Hu Y, Ceze L, Guestrin C. TVM: An automated end-to-end optimizing compiler for deep learning. In13th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI} 18) 2018 (pp. 578-594).
+
 ----
 ### Programming Languages
 - [x] Hoare, C. A. R. (1969). An axiomatic basis for computer programming. Communications of the ACM, 12(10), 576-580.
