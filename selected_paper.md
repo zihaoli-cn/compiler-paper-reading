@@ -47,7 +47,7 @@
 - [ ] Michael Burke, Linda Torczon. "Interprocedural Optimization: Eliminating Unnecessary Recompilation," ACM Transactions on Programming Languages and Systems, 15(3), July 1993.
 - [x] Reps, T., Horwitz, S., & Sagiv, M. (1995, January). Precise interprocedural dataflow analysis via graph reachability. In Proceedings of the 22nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages (pp. 49-61).
   - will be presented by `Yongheng Huang`
-  - We directly used the slices of the  [**Static Program Analysis** course](https://pascal-group.bitbucket.io/teaching.html) of Nanjing University 
+  - We directly used the slices of the  [**Static Program Analysis** course](https://pascal-group.bitbucket.io/teaching.html) of Nanjing University, the `Interprocedural Analysis` part.
 
 ### Code Generation and Register Allocation
 - [ ] C. Fraser, R. Henry, and T. Proebsting. "BURG: Fast Optimal Instruction Selection and Tree Parsing," ACM SIGPLAN Notices, 27(4), pp. 68-76, April 1992.
