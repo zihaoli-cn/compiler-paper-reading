@@ -13,6 +13,7 @@
 - [ ] Kevin O'Brien, Kathryn M. O'Brien, Martin Hopkins, Arvin Shepherd, and Ron Unrau, "XIL and YIL: The Intermediate Languages of TOBEY," ACM SIGPLAN Notices, 30(3), pp. 71-82, March 1993.
 - [ ] L. Almagor, K.D. Cooper, A. Grosul, T.J. Harvey, S.W. Reeves, D. Subramanian, L. Torczon, and T. Waterman. "Finding Effective Compilation Sequences," Proceedings of the 2004 Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES), June 2004, pp. 231-230.
 - [ ] Chris Lattner and Vikram Adve. " LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation",In Proceedings of the international Symposium on Code Generation and Optimization  (CGO '04), 2004.
+  - will be presented by `Jiazhi Mi`
 
 ### Data Flow Analysis and Optimizations
 - [ ] J. B. Kam and J. D. Ullman. "Global Data Flow Analysis and Iterative Algorithms,"Journal of the ACM, 23(1), pp. 158-171, Jan. 1976.
