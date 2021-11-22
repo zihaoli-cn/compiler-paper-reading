@@ -29,6 +29,7 @@
 - [ ] R. Cytron, J. Ferrante, B. Rosen, M. Wegman, and K. Zadeck. "Efficiently Computing Static Single Assignment Form and The Control Dependence Graph," ACM Transactions on Porgramming Languages and Systems, 13(4), pp. 451-490, October 1991.
   - will be presented by `Zihao Li`
 - [ ] Mark N. Wegman and Kenneth Zadeck. "Constatnt Propagation with Conditional Branches," ACM Transactions on Programming Languages and Systems, 13(2), pp. 181-210, April 1991.
+  - will be presented by `Zihao Li`
 
 ### Dependence Analysis
 - [ ] M.E. Wolfe and M. Lam. "A Loop Transformation Theory and an Algorithm to Maximize Parallelism, IEEE Transactions on Parallel and Distributed Systems, 2(4): 452-471, October 1991.
@@ -44,8 +45,9 @@
 ### Interprocedural Optimization
 
 - [ ] Michael Burke, Linda Torczon. "Interprocedural Optimization: Eliminating Unnecessary Recompilation," ACM Transactions on Programming Languages and Systems, 15(3), July 1993.
-- [ ] Reps, T., Horwitz, S., & Sagiv, M. (1995, January). Precise interprocedural dataflow analysis via graph reachability. In Proceedings of the 22nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages (pp. 49-61).
+- [x] Reps, T., Horwitz, S., & Sagiv, M. (1995, January). Precise interprocedural dataflow analysis via graph reachability. In Proceedings of the 22nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages (pp. 49-61).
   - will be presented by `Yongheng Huang`
+  - We directly used the slices of the  [**Static Program Analysis** course](https://pascal-group.bitbucket.io/teaching.html) of Nanjing University 
 
 ### Code Generation and Register Allocation
 - [ ] C. Fraser, R. Henry, and T. Proebsting. "BURG: Fast Optimal Instruction Selection and Tree Parsing," ACM SIGPLAN Notices, 27(4), pp. 68-76, April 1992.
