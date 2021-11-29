@@ -1,7 +1,7 @@
 
 ### Compiler Core
 - [ ] D. Padua and M. Wolfe. "Advanced Compiler Optimizations for Supercomputers," Communications of the ACM, Vol. 29, No. 12, pp. 1184-1201, December 1986.
-  - will be presented by `Quanxi Li`
+  - presented by `Quanxi Li`
 - [ ] Rakesh Ghiya, Daniel Lavery, and David Sehr. "On the Importance of Points-to Analysis and Other Memory Disambiguation Methods for C Programs," Proceedings of the ACM SIGPLAN 2001 Conference on Programming Language Design and Implementation (PLDI'01), Snowbird, UT, June 2001.
 - [ ] Michael E. Wolf and Monica S. Lam. "A Data Locality Optimizing Algorithm," ACM SIGPLAN Conference on Programming Languages Design and Implementation, June 1991, pp. 30-44.
 - [ ] A. Milanova, A. Rountev, and B. Ryder. "Parameterized Object Sensitivity for Points-To Analysis for Java", ACM Transactions on Software Engineering Methodology, 14(1), pp. 1--41, 2005.
