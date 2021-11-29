@@ -1,6 +1,6 @@
 
 ### Compiler Core
-- [ ] D. Padua and M. Wolfe. "Advanced Compiler Optimizations for Supercomputers," Communications of the ACM, Vol. 29, No. 12, pp. 1184-1201, December 1986.
+- [x] D. Padua and M. Wolfe. "Advanced Compiler Optimizations for Supercomputers," Communications of the ACM, Vol. 29, No. 12, pp. 1184-1201, December 1986.
   - presented by `Quanxi Li`
 - [ ] Rakesh Ghiya, Daniel Lavery, and David Sehr. "On the Importance of Points-to Analysis and Other Memory Disambiguation Methods for C Programs," Proceedings of the ACM SIGPLAN 2001 Conference on Programming Language Design and Implementation (PLDI'01), Snowbird, UT, June 2001.
 - [ ] Michael E. Wolf and Monica S. Lam. "A Data Locality Optimizing Algorithm," ACM SIGPLAN Conference on Programming Languages Design and Implementation, June 1991, pp. 30-44.
@@ -47,7 +47,7 @@
 
 - [ ] Michael Burke, Linda Torczon. "Interprocedural Optimization: Eliminating Unnecessary Recompilation," ACM Transactions on Programming Languages and Systems, 15(3), July 1993.
 - [x] Reps, T., Horwitz, S., & Sagiv, M. (1995, January). Precise interprocedural dataflow analysis via graph reachability. In Proceedings of the 22nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages (pp. 49-61).
-  - will be presented by `Yongheng Huang`
+  - presented by `Yongheng Huang`
   - We directly used the slices of the  [**Static Program Analysis** course](https://pascal-group.bitbucket.io/teaching.html) of Nanjing University, the `Interprocedural Analysis` part.
 
 ### Code Generation and Register Allocation
