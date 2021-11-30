@@ -42,6 +42,7 @@
   - will be presented by `Yongheng Huang`
 - [ ] Manuel Fahndrich, Jeffrey S. Foster, Zhendong Su, and Alexander Aiken. "Partial Online Cycle Elimination in Inclusion Constraint Graphs," Proceedings of the ACM SIGPLAN'98 Conference on Programming Language Design and Implementation, pp. 85-96, June, 1998.
 - [ ] Hardekopf, B., & Lin, C. (2007, June). The ant and the grasshopper: fast and accurate pointer analysis for millions of lines of code. In Proceedings of the 28th ACM SIGPLAN Conference on Programming Language Design and Implementation (pp. 290-299).
+  - will be presented by `Chenghang Shi`
 
 ### Interprocedural Optimization
 
