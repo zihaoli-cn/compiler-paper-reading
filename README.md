@@ -12,12 +12,6 @@
 > ![Bloom's Taxonomy](pic/bloom.png)
 > ![Activities by Learning Style](pic/style.png)
 
-
-<p align="center">
-  <img align="right" style="float: right;" src="pic/bloom.png">
-  <img align="left" style="float: left;" src="pic/style.png">
-</p>
-
 - 传统：
   - 发现做理论的同学，他们组里基本上都会有开研讨班这样的传统，大概就是大家一起来刷某本书，轮流领导讲课，然后共同解决课后习题。在国外许多PhD的研讨课上也是采用研讨的方法来研读论文。后来也在知乎上看到某位大佬自己组织数据库相关的研讨班。和小伙伴交流之后，发现好多人都有同样的兴趣和苦恼，所以大家决定一起组织起来这个研讨班，共同进步、共同提高。
 - 学习：
