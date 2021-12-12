@@ -2,6 +2,7 @@
 ### Compiler Core
 - [x] D. Padua and M. Wolfe. "Advanced Compiler Optimizations for Supercomputers," Communications of the ACM, Vol. 29, No. 12, pp. 1184-1201, December 1986.
   - presented by `Quanxi Li`
+  - [PPT directory link](https://github.com/zihaoli-cn/compiler-paper-reading/tree/main/material/Compiler%20Core)
 - [ ] Rakesh Ghiya, Daniel Lavery, and David Sehr. "On the Importance of Points-to Analysis and Other Memory Disambiguation Methods for C Programs," Proceedings of the ACM SIGPLAN 2001 Conference on Programming Language Design and Implementation (PLDI'01), Snowbird, UT, June 2001.
 - [ ] Michael E. Wolf and Monica S. Lam. "A Data Locality Optimizing Algorithm," ACM SIGPLAN Conference on Programming Languages Design and Implementation, June 1991, pp. 30-44.
 - [ ] A. Milanova, A. Rountev, and B. Ryder. "Parameterized Object Sensitivity for Points-To Analysis for Java", ACM Transactions on Software Engineering Methodology, 14(1), pp. 1--41, 2005.
@@ -69,6 +70,7 @@
 - [ ] Frigo, M. (1999, May). A fast Fourier transform compiler. In Proceedings of the ACM SIGPLAN 1999 conference on Programming language design and implementation (pp. 169-180).
 - [x] Yotov, K., Li, X., Ren, G., Cibulskis, M., DeJong, G., Garzaran, M., ... & Wu, P. (2003, May). A comparison of empirical and model-driven optimization. In Proceedings of the ACM SIGPLAN 2003 conference on Programming language design and implementation (pp. 63-76).
   - presented by `Kaiyan Chang`
+  - [PPT Directory Link](https://github.com/zihaoli-cn/compiler-paper-reading/tree/main/material/Compiler%20Specialization/Program%20Synthesis)
 
 ### Dynamic Analysis
 - [ ] Luk, C. K., Cohn, R., Muth, R., Patil, H., Klauser, A., Lowney, G., ... & Hazelwood, K. (2005). Pin: building customized program analysis tools with dynamic instrumentation. Acm sigplan notices, 40(6), 190-200.
