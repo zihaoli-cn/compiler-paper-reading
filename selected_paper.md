@@ -67,7 +67,8 @@
 
 ### Program Synthesis
 - [ ] Frigo, M. (1999, May). A fast Fourier transform compiler. In Proceedings of the ACM SIGPLAN 1999 conference on Programming language design and implementation (pp. 169-180).
-- [ ] Yotov, K., Li, X., Ren, G., Cibulskis, M., DeJong, G., Garzaran, M., ... & Wu, P. (2003, May). A comparison of empirical and model-driven optimization. In Proceedings of the ACM SIGPLAN 2003 conference on Programming language design and implementation (pp. 63-76).
+- [x] Yotov, K., Li, X., Ren, G., Cibulskis, M., DeJong, G., Garzaran, M., ... & Wu, P. (2003, May). A comparison of empirical and model-driven optimization. In Proceedings of the ACM SIGPLAN 2003 conference on Programming language design and implementation (pp. 63-76).
+  - presented by `Kaiyan Chang`
 
 ### Dynamic Analysis
 - [ ] Luk, C. K., Cohn, R., Muth, R., Patil, H., Klauser, A., Lowney, G., ... & Hazelwood, K. (2005). Pin: building customized program analysis tools with dynamic instrumentation. Acm sigplan notices, 40(6), 190-200.
@@ -104,6 +105,9 @@
 ### Deep Learning Compiler
 - [ ] Chen T, Moreau T, Jiang Z, Zheng L, Yan E, Shen H, Cowan M, Wang L, Hu Y, Ceze L, Guestrin C. TVM: An automated end-to-end optimizing compiler for deep learning. In13th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI} 18) 2018 (pp. 578-594).
 
+### High Performance Computing
+- [x] Guangming Tan, Linchuan Li, Sean Triechle, Everett Phillips, Yungang Bao†, Ninghui Sun. Fast Implementation of DGEMM on Fermi GPU. 2011
+  - presented by `Han Bao`
 ----
 ### Programming Languages
 - [x] Hoare, C. A. R. (1969). An axiomatic basis for computer programming. Communications of the ACM, 12(10), 576-580.
