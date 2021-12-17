@@ -74,7 +74,8 @@
 
 ### Dynamic Analysis
 - [ ] Luk, C. K., Cohn, R., Muth, R., Patil, H., Klauser, A., Lowney, G., ... & Hazelwood, K. (2005). Pin: building customized program analysis tools with dynamic instrumentation. Acm sigplan notices, 40(6), 190-200.
-- [ ] Gal, A., Eich, B., Shaver, M., Anderson, D., Mandelin, D., Haghighat, M. R., ... & Ruderman, J. (2009). Trace- based just-in-time type specialization for dynamic languages. ACM Sigplan Notices, 44(6), 465-478.
+- [ ] Gal, A., Eich, B., Shaver, M., Anderson, D., Mandelin, D., Haghighat, M. R., ... & Ruderman, J. (2009). Trace-based just-in-time type specialization for dynamic languages. ACM Sigplan Notices, 44(6), 465-478.
+  - will be presentated by `Zihao Li`
 
 ### Correctness
 - [ ] Thomas Ball, Rupak Majumdar, Todd Millstein, and Sriram K. Rajamani. "Automatic Predicate Abstraction of C Programs", InProceedings of the ACM SIGPLAN 2001 Conference on Programming Language Design and Implementation (PLDI).  June 2001.
