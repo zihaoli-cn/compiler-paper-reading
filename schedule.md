@@ -6,6 +6,6 @@
 | 4 | Advanced Compiler Optimizations For Supercomputers | Dependence Aanlysis, Automatic parallelization, Vectorization | Quanxi Li | 2021.11.28 | [PPT](https://github.com/zihaoli-cn/compiler-paper-reading/tree/main/material/Compiler%20Core) | the "*Data Dependence*" concept in Computer Architecture Course |
 | 5 | A comparison of empirical and model-driven optimization | Program Synthesis, Synthesis for Performance | Kaiyan Chang | 2021.12.05 | [PPT](https://github.com/zihaoli-cn/compiler-paper-reading/tree/main/material/Compiler%20Specialization/Program%20Synthesis) | |
 | 6 | Invited Talk: GEMM | High Performance Computation, Matrix-Mutilication on GPU | Han Bao | 2021.12.12 | `TODO` | |
-| 7 | Detecting Equality of Variables in Programs|  Optimization, History: the orgin of SSA | Zihao Li | 2021.12.19 | `TODO` | at least know what is **SSA**|
+| 7 | Detecting Equality of Variables in Programs|  Optimization, History: the orgin of SSA | Zihao Li | 2021.12.19 | [slides](https://github.com/zihaoli-cn/compiler-paper-reading/blob/main/material/SSA/SSA-Equality-%E6%9D%8E%E6%A2%93%E8%B1%AA.pdf) | at least know what is **SSA**|
 | 8 | Automatic Translation of FORTRAN Programs to Vector Form | Vectorization | Zhongcheng Zhang | 2021.12.26 | `TODO` | |
 | 9 | LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation | Compiler Infrastructure | Jiazhi Mi | 2021.01.02 | `TODO` | | 
