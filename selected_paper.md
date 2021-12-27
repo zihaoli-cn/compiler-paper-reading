@@ -58,6 +58,7 @@
 - [ ] Preston Briggs, Keith Cooper, and Linda Torczon. "Improvements to Graph Coloring Register Allocation," ACM Transactions on Programming Languages and Systems, 16(3), pp. 428-455, May 1994.
 - [ ] B.Ramakrishna Rau, Michael S. Schlansker, P. P. Tirumalai. "Code Generation Schema for Modulo Scheduled Loops", In Proceedings of the 25th Annual International Symposium on Microarchitecture(MICRO 25), 1992.
 - [ ] Bansal, S., & Aiken, A. (2006). Automatic generation of peephole superoptimizers. ACM SIGARCH Computer Architecture News, 34(5), 394-403.
+  - presented by `Quanxi Li`
 ### Scheduling
 - [ ] P.B. Gibbons and S.S. Muchnick. "Efficient Instruction Scheduling for a Pipelined Architecture," ACM SIGPLAN Symposium on Compiler Construction, pp. 11-16, June 1986.
 - [ ] W.W. Hwu, et.al. "The Superblock: An Effective Technique for VLIW and Superscalar Compilation," Instruction-Level Parallelism, B.R. Rau and J.A. Fisher (editors), Kluwer Academic Publishers, ISBN 0-7923-9367-8, 1993, pp. 229-248.
@@ -76,7 +77,6 @@
 ### Dynamic Analysis
 - [ ] Luk, C. K., Cohn, R., Muth, R., Patil, H., Klauser, A., Lowney, G., ... & Hazelwood, K. (2005). Pin: building customized program analysis tools with dynamic instrumentation. Acm sigplan notices, 40(6), 190-200.
 - [ ] Gal, A., Eich, B., Shaver, M., Anderson, D., Mandelin, D., Haghighat, M. R., ... & Ruderman, J. (2009). Trace-based just-in-time type specialization for dynamic languages. ACM Sigplan Notices, 44(6), 465-478.
-  - will be presentated by `Zihao Li`
 
 ### Correctness
 - [ ] Thomas Ball, Rupak Majumdar, Todd Millstein, and Sriram K. Rajamani. "Automatic Predicate Abstraction of C Programs", InProceedings of the ACM SIGPLAN 2001 Conference on Programming Language Design and Implementation (PLDI).  June 2001.
@@ -95,6 +95,7 @@
 
 ### Dynamic Language's Compiler
 - [ ] C. Chambers, D. Ungar, and E. Lee. An Efficient Implementation of SELF, a Dynamically-Typed Object-Oriented Language Based on Prototypes, OOPSLA 1989.
+  - presented by `Zhicheng Li`
 
 ### Synthesis-Aided Compilers
 - [ ] Phitchaya Mangpo Phothilimthana, Tikhon Jelvis, Rohin Shah, Nishant Totla, Sarah Chasins, and Rastislav Bodik. Chlorophyll: Synthesis-Aided Compiler for Low-Power Spatial Architectures. PLDI 2014.
