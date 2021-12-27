@@ -36,8 +36,8 @@
 
 ### Dependence Analysis
 - [ ] M.E. Wolfe and M. Lam. "A Loop Transformation Theory and an Algorithm to Maximize Parallelism, IEEE Transactions on Parallel and Distributed Systems, 2(4): 452-471, October 1991.
-- [ ] R. Allen and K.W. Kennedy. "Automatic Translation of FORTRAN Programs to Vector Form," ACM Transactions on Programming Languages and Systems (TOPLAS), 9(4), October 1987, pp. 491-542.
-  - will be presented by `Zhongcheng Zhang` 
+- [x] R. Allen and K.W. Kennedy. "Automatic Translation of FORTRAN Programs to Vector Form," ACM Transactions on Programming Languages and Systems (TOPLAS), 9(4), October 1987, pp. 491-542.
+  - presented by `Zhongcheng Zhang` 
 
 ### Pointer Analysis
 - [ ] B. Steensgaard. "Points-to Analysis in Almost Linear Time," Proceedings of the 23rd Annual ACM Symposium on Principles of Programming Languages (POPL'96), pp. 32-41, January 1996.
