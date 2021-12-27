@@ -26,7 +26,7 @@
   - will be presented by `Zihao Li`
 
 ### Static Single Assignment Form and SSA Optimizations
-- [ ] B. Alpern, M.N. Wegman, and F.K. Zadeck. "Detecting Equality of Variables in Programs," Proceedings of the 15th Annual ACM Symposium on Principles of Programming Languages, pp. 1-11, 1988.
+- [x] B. Alpern, M.N. Wegman, and F.K. Zadeck. "Detecting Equality of Variables in Programs," Proceedings of the 15th Annual ACM Symposium on Principles of Programming Languages, pp. 1-11, 1988.
   - presented by `Zihao Li`
   - [slides](https://github.com/zihaoli-cn/compiler-paper-reading/blob/main/material/SSA/SSA-Equality-%E6%9D%8E%E6%A2%93%E8%B1%AA.pdf)
 - [ ] R. Cytron, J. Ferrante, B. Rosen, M. Wegman, and K. Zadeck. "Efficiently Computing Static Single Assignment Form and The Control Dependence Graph," ACM Transactions on Porgramming Languages and Systems, 13(4), pp. 451-490, October 1991.
