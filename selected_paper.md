@@ -113,6 +113,7 @@
 ### High Performance Computing
 - [x] Guangming Tan, Linchuan Li, Sean Triechle, Everett Phillips, Yungang Bao†, Ninghui Sun. Fast Implementation of DGEMM on Fermi GPU. 2011
   - presented by `Han Bao`
+  - [PPT file link](https://github.com/zihaoli-cn/compiler-paper-reading/blob/main/material/%E7%BC%96%E8%AF%91%E8%AE%A8%E8%AE%BA%E5%88%86%E4%BA%AB.pptx)
 ----
 ### Programming Languages
 - [x] Hoare, C. A. R. (1969). An axiomatic basis for computer programming. Communications of the ACM, 12(10), 576-580.
