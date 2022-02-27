@@ -57,7 +57,7 @@
 - [ ] C. Fraser, R. Henry, and T. Proebsting. "BURG: Fast Optimal Instruction Selection and Tree Parsing," ACM SIGPLAN Notices, 27(4), pp. 68-76, April 1992.
 - [ ] Preston Briggs, Keith Cooper, and Linda Torczon. "Improvements to Graph Coloring Register Allocation," ACM Transactions on Programming Languages and Systems, 16(3), pp. 428-455, May 1994.
 - [ ] B.Ramakrishna Rau, Michael S. Schlansker, P. P. Tirumalai. "Code Generation Schema for Modulo Scheduled Loops", In Proceedings of the 25th Annual International Symposium on Microarchitecture(MICRO 25), 1992.
-- [ ] Bansal, S., & Aiken, A. (2006). Automatic generation of peephole superoptimizers. ACM SIGARCH Computer Architecture News, 34(5), 394-403.
+- [x] Bansal, S., & Aiken, A. (2006). Automatic generation of peephole superoptimizers. ACM SIGARCH Computer Architecture News, 34(5), 394-403.
   - presented by `Quanxi Li`
 ### Scheduling
 - [ ] P.B. Gibbons and S.S. Muchnick. "Efficient Instruction Scheduling for a Pipelined Architecture," ACM SIGPLAN Symposium on Compiler Construction, pp. 11-16, June 1986.
