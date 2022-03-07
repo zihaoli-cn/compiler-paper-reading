@@ -59,6 +59,8 @@
 - [ ] B.Ramakrishna Rau, Michael S. Schlansker, P. P. Tirumalai. "Code Generation Schema for Modulo Scheduled Loops", In Proceedings of the 25th Annual International Symposium on Microarchitecture(MICRO 25), 1992.
 - [x] Bansal, S., & Aiken, A. (2006). Automatic generation of peephole superoptimizers. ACM SIGARCH Computer Architecture News, 34(5), 394-403.
   - presented by `Quanxi Li`
+  - [Slides](https://github.com/zihaoli-cn/compiler-paper-reading/blob/main/material/Compiler%20Specialization/Code%20Generation%20and%20Register%20Allocation/Automatic%20Generation%20of%20Peephole%20Superoptimizers.pptx)
+  - [paper](https://github.com/zihaoli-cn/compiler-paper-reading/blob/main/paper/Compiler%20Specialization/Code%20Generation%20and%20Register%20Allocation/Automatic%20generation%20of%20peephole%20superoptimizers.pdf)
 ### Scheduling
 - [ ] P.B. Gibbons and S.S. Muchnick. "Efficient Instruction Scheduling for a Pipelined Architecture," ACM SIGPLAN Symposium on Compiler Construction, pp. 11-16, June 1986.
 - [ ] W.W. Hwu, et.al. "The Superblock: An Effective Technique for VLIW and Superscalar Compilation," Instruction-Level Parallelism, B.R. Rau and J.A. Fisher (editors), Kluwer Academic Publishers, ISBN 0-7923-9367-8, 1993, pp. 229-248.
