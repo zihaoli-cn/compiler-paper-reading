@@ -38,6 +38,8 @@
 - 主要来自于UIUC Compilers Track PhD Qualifying Exam [Old Version](http://rsim.cs.uiuc.edu/arch/compiler_qual.html), [New Version](https://wiki.illinois.edu/wiki/display/architecture/Compilers+Track)
 - 选择了[Cornell CS 6120: Advanced Compilers](https://www.cs.cornell.edu/courses/cs6120/2020fa)中推荐阅读文章的几篇高引论文
 - 成员推荐
+- recommended resource: 
+  - [github: KnowingNothing/compiler-and-arch](https://github.com/KnowingNothing/compiler-and-arch), a list of awesome compilers and optimization techniques (applicable to compilers) for different architectures and emerging domains.
 
 ## Schedule
 - 已选择的paper见Issues，讲完一个会被标注为closed，在selected_paper中会有标注
